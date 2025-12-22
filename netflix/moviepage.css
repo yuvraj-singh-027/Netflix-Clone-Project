@@ -1,0 +1,181 @@
+   #logo{
+    font-size: 25px;
+    color:red;
+    font-weight: bold;
+}
+header{
+    background-color: #0a0707;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    margin-top:0%;
+
+}
+.option1{ 
+  height:15px;
+  width:200px;
+  display:inline-block;
+}
+.option2{ 
+  height:15px;
+  width:200px;
+  display:inline-block;
+  
+}.option3{ 
+  height:15px;
+  width:200px;
+  display:inline-block;
+  
+}.option4{ 
+  height:15px;
+  width:200px;
+  display:inline-block;
+  
+}.option5{ 
+  height:15px;
+  width:200px;
+  display:inline-block;
+  
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color: #0c0c0c;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.grid-container1{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container2{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container3{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container4{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container5{
+margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container6{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container7{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container8{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container9{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container10{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
+.grid-container11{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container12{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container13{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container14{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container15{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container16{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container17{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container18{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container19{
+ margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}.grid-container20{
+margin: 35px;
+ height:auto;
+ width: auto;
+ display:inline;
+
+}
